@@ -1,6 +1,6 @@
-# IoT-Based Warehouse Environment Dashboard
+# IoT Dashboard for Monitoring Temperature, Humidity, and Light
 
-This project demonstrates a complete IoT pipeline for monitoring and visualizing warehouse environmental conditions using an ESP8266, DHT11 sensor, LM393 light sensor, and a Dash web dashboard.
+This project demonstrates a complete IoT pipeline for monitoring and visualizing environmental conditions using an ESP8266, DHT11 sensor, LM393 light sensor, and a Dash web dashboard.
 
 <img width="998" height="318" alt="image" src="https://github.com/user-attachments/assets/4d8f0503-6873-44ed-b06e-5c71a63a9342" />
 
